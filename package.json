@@ -1,0 +1,8 @@
+{
+  "name": "potify-living-archive",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:public": "node --check public/app.js"
+  }
+}
