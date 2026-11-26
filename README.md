@@ -2,7 +2,15 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
-**Application source.** Make the full Seed → New Cycle journey explorable as an illustrated archive.
+## How to describe twelve stages without making up a grow
+
+The name of a stage helps a keeper file a note. A dated observation tells us what happened to a particular plant. An illustration can do the first job beautifully and still say nothing about the second. That distinction is the editorial heart of the Living Archive.
+
+This repository is a technical source reference. The [stage model](public/app.js) and [technical paper](docs/WHITEPAPER.md) show how labels and illustrations correspond. **The Living Archive remains private.** Its presence in the public source directory is not an invitation to access private grow logs or reader records.
+
+For a maintainer review, compare stage terminology between the model and the paper. Flag a label that could be read as a documented result instead of an illustration. The public reading destination is the [free First Cycle edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition).
+
+**Source reference.** The Living Archive remains private.
 
 ### Setup and usage
 
@@ -12,7 +20,7 @@ Use Node.js 24 for the included checks. Use Python 3 for the local static previe
 python3 -m http.server 8000 --bind 127.0.0.1 --directory public
 ```
 
-Explore three stages. Open http://127.0.0.1:8000/ in a browser. 
+For local maintenance, open http://127.0.0.1:8000/ in a browser.
 
 ### Developer entry points
 
