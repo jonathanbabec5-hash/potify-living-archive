@@ -1,5 +1,13 @@
 # The Living Archive
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A maintainer | [Inspect the stage model](public/app.js) | Compare stage labels with the technical paper. |
+| A reader | [Open the free First Cycle edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition) | Explore the public book and recording. |
+| A reviewer | [Read the scope paper](docs/WHITEPAPER.md) | Keep illustrations separate from documented grow observations. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## How to describe twelve stages without making up a grow
